@@ -1,4 +1,8 @@
 hi
 how r u
+<<<<<<< HEAD
 how 
 how its possible
+=======
+am in banglore    
+>>>>>>> 0a5c1593c98d575949032161ee674eb5a9a06b7d
